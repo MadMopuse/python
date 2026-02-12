@@ -85,7 +85,7 @@ def check_result(answer: int, user_num: int) -> bool:
     
     return True
 
-'''КОМИТ'''
+'''КОМИТddsds'''
 def run_round(answer: int) -> bool:
     """ возвращаем True , если пользователь угадал, False иначе"""
     txt = input("your number: ")
