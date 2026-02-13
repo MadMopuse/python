@@ -1,0 +1,20 @@
+2.3.py
+2.4.py
+2.5.py
+2.3.py
+indiv_task.2.2.py
+indiv_task.2.3.py
+
+# Конкретные файлы, 
+имя_вашего_файла.txt
+config_local.py
+
+# Системные папки Python (обязательно к исключению)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+.env
+
